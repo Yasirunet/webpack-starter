@@ -1,0 +1,2 @@
+# webpack-starter
+Simple project to explore the features of [webpack](https://webpack.js.org/). This project can be also used as a boilerplate for any project that you wish to use webpack as the bundler.  
